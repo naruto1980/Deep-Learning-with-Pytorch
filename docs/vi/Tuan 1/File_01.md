@@ -1,17 +1,16 @@
 ---
-Tham khảo: [File_01](https://github.com/JohnsonNguyen1820/Deep-Learning-with-Pytorch/blob/master/docs/vi/Tuan%201/File_01.md)
+Tham khảo: [File_01]
 Tiêu đề: Tuần 1
 ---
 
 
-## Lecture part A
+## Bài giảng phần A
 
-We discuss the motivation behind deep learning. We begin with the history and inspiration of deep learning. Then we discuss the history of pattern recognition and introduce gradient descent and its computation by backpropagation. Finally, we discuss the hierarchical representation of the visual cortex.
+Trong nội dung phần này, chúng tôi tập trung vào lịch sử và nguồn cảm hứng thúc đẩy Deep Learning phát triển. Sau đó, chúng tôi thảo luận về lịch sử nhận diện khuôn mẫu, giới thiệu về Gradient Descent và tính toán nó bằng backpropagation. Cũng cùng, chúng tôi thảo luận về sự biểu diễn thứ tự của vỏ não thị giác. 
 
+## Bài giảng phần B
 
-## Lecture part B
-
-We first discuss the evolution of CNNs, from Fukushima to LeCun to AlexNet. We then discuss some applications of CNN's, such as image segmentation, autonomous vehicles, and medical image analysis. We discuss the hierarchical nature of deep networks and the attributes of deep networks that make them advantageous. We conclude with a discussion of generating and learning features/representations.
+Đầu tiên, chúng tôi thảo luận về CNN từ Fukushima đến LeCun và AlexNet. Sau đó, chúng tôi giới thiệu một số ứng dụng của CNN, chẳng hạn như phân đoạn hình ảnh, xư tự lái và phân tích hình ảnh trong y tế. Chúng ta sẽ thảo luận về tính phân cấp và các thuộc tính của mạng Deep Learning khiến chúng trở nên phổ biến hơn. Chúng tôi kết thúc bằng một thảo luận về cách tạo và học từ các đặc trưng/ representation.
 
 
 ## Practicum
