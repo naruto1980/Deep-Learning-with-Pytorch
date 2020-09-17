@@ -1,5 +1,5 @@
 ---
-Tham khảo: [File_01]
+Tham khảo: File_01
 Tiêu đề: Tuần 1
 ---
 
