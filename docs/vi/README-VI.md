@@ -33,7 +33,7 @@ Notebook được phát hành tại [website](https://atcold.github.io/pytorch-D
 -->
 <!-- Tiếng Việt -->
 <!--
-Các bạn có thể tìm thấy phiên bản Tiếng Việt của `README.md` [vi](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/docs/vi/README-VI.md) tại đây.
+Các bạn có thể tìm thấy phiên bản Tiếng Việt của `README.md` [vi](https://github.com/JohnsonNguyen1820/pytorch-Deep-Learning/edit/master/docs/vi/README-VI.md) tại đây.
 -->
 
 <!-- English - Mandarin - Korean - Spanish - Italian - Turkish - Japanese - Arabic -->
