@@ -1,6 +1,6 @@
-# Deep Learning (with PyTorch) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Atcold/pytorch-Deep-Learning/master)
+# Deep Learning (với PyTorch) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Atcold/pytorch-Deep-Learning/master)
 
-This notebook repository now has a [companion website](https://atcold.github.io/pytorch-Deep-Learning/), where all the course material can be found in video and textual format.
+Notebook được phát hành tại [trang web](https://atcold.github.io/pytorch-Deep-Learning/), nơi tất cả tài liệu khóa học có thể được tìm thấy dưới định dạng video và văn bản.
 
 <!-- Mandarin -->
 <!--
@@ -33,6 +33,10 @@ This notebook repository now has a [companion website](https://atcold.github.io/
 🇸🇦 النسخة العربية من ملف `README.md`  [ar](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/docs/ar/README-AR.md) والموقع الالكتروني.
 -->
 
+<!-- Huynh Nguyen -->
+<!--
+Các bạn có thể tìm thấy phiên bản Tiếng Việt "readme-vi.md [vi](https://github.com/JohnsonNguyen1820/pytorch-Deep-Learning/edit/master/vi/readme-vi.md)
+-->
 
 <!-- English - Mandarin - Korean - Spanish - Italian - Turkish - Japanese - Arabic -->
 [🇬🇧](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/README.md) &nbsp; [🇨🇳](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/docs/zh/README-ZH.md) &nbsp; [🇰🇷](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/docs/ko/README-KO.md) &nbsp; [🇪🇸](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/docs/es/README-ES.md) &nbsp; [🇮🇹](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/docs/it/README-IT.md) &nbsp; [🇹🇷](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/docs/tr/README-TR.md) &nbsp; [🇯🇵](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/docs/ja/README-JA.md) &nbsp; [🇸🇦](https://github.com/Atcold/pytorch-Deep-Learning/blob/master/docs/ar/README-AR.md)
