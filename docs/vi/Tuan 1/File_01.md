@@ -1,6 +1,6 @@
 ---
-lang-ref: ch.01
-title: Week 1
+Tham khảo: [File_01.md]
+Tiêu đề: Tuần 1
 ---
 
 
