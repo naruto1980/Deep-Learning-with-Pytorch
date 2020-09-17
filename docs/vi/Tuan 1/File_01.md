@@ -1,5 +1,5 @@
 ---
-Tham khảo: [File_01.md](https://github.com/JohnsonNguyen1820/Deep-Learning-with-Pytorch/blob/master/docs/vi/Tuan%201/File_01.md)
+Tham khảo: [File_01](https://github.com/JohnsonNguyen1820/Deep-Learning-with-Pytorch/blob/master/docs/vi/Tuan%201/File_01.md)
 Tiêu đề: Tuần 1
 ---
 
